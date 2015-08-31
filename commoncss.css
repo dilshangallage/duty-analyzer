@@ -1,0 +1,229 @@
+
+/*----- Tabs -----*/
+.top_padding li{
+	list-style:none;
+	
+	
+}
+#top_menu{
+	font-size:30px;
+	text-decoration:none;
+}
+.layer{
+	padding:5px;
+	height:500px;
+	width:1330px;
+}
+#layer1{
+	padding:5px;
+	height:600px;
+	width:1330px;
+}
+.tabs {
+    width:100%;
+    display:inline-block;
+}
+ 
+    /*----- Tab Links -----*/
+    /* Clearfix */
+    .tab-links:after {
+        display:block;
+        clear:both;
+        content:'';
+    }
+ 
+    .tab-links li {
+        margin:0px 5px;
+        float:left;
+        list-style:none;
+    }
+ 
+        .tab-links a {
+            padding:9px 15px;
+            display:inline-block;
+            border-radius:3px 3px 0px 0px;
+            
+            font-size:16px;
+            font-weight:600;
+            
+            transition:all linear 0.15s;
+        }
+ 
+        .tab-links a:hover {
+           
+            text-decoration:none;
+        }
+ 
+    li.active a, li.active a:hover {
+       
+        color:#4c4c4c;
+    }
+ 
+    /*----- Content of Tabs -----*/
+    .tab-content {
+        padding:15px;
+        border-radius:3px;
+        box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+       
+    }
+ 
+        .tab {
+            display:none;
+        }
+ 
+        .tab.active {
+            display:block;
+        }
+}
+
+.end1{
+	padding:5px;
+	height:27px;
+	width:1330px;
+	
+}
+
+.end2{
+	padding:5px;
+	height:12px;
+	width:1330px;
+	background-color:#7575FF;
+}
+.end3{
+	padding:5px;
+	height:12px;
+	width:1330px;
+	background-color:#6666FF;
+}
+
+#top_menu{
+	font-size:30px;
+	text-decoration:none;
+}
+#top_tabs{
+	
+	
+
+}
+#top_tabs ul{
+	list-style:none;
+	
+	 border-bottom: 1px solid black;
+    height: 30px;
+}
+#top_tabs li{
+	text-decoration:none;
+	background-color: white;
+    border-bottom-color:#E64848;
+    
+    height: 29px;
+    float: left;
+   
+    
+    padding: 1px 7px 0 7px;
+}
+
+#tab1 table{
+	align:center;
+}
+#tab11 table{
+	align:center;
+}
+#tab111 table{
+	align:center;
+}
+#tab1 table td{
+	font-size:15px;
+	text-align:right;
+	
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+#tab11 table td{
+	font-size:15px;
+	text-align:right;
+	
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+#tab111 table td{
+	font-size:15px;
+	text-align:right;
+	
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+
+#tab2 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab22 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab22 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab3 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab33 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab333 table td{
+	font-size:15px;
+	text-align:top;
+	padding:2px;
+	padding-left:30px;
+	height:5px;
+	width:150px;
+}
+#tab4 table td{
+	font-size:15px;
+	text-align:right;
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+#tab44 table td{
+	font-size:15px;
+	text-align:right;
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+#tab444 table td{
+	font-size:15px;
+	text-align:right;
+	padding:2px;
+	height:5px;
+	width:150px;
+}
+

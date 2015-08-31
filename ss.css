@@ -1,0 +1,97 @@
+#top{
+	padding:5px;
+	background-image:url(img/grap5.png);
+	width:1330px;
+	height:490px;
+
+}
+#top_inside{
+	padding:5px;
+	width:1000px;
+	height:470px;
+	
+	margin-bottom:5px;
+	margin-left:175px;
+	margin-right:20px;
+	margin-top:-5px;
+	border:10px outset #D6D6C2;
+	background-color:white;
+}
+#middle1{
+	padding:5px;
+	width:1330px;
+	height:140px;
+	align:right;
+	position:fixed;
+	background-color:white;;
+}
+#middle_tabs{
+	padding:5px;
+	width:1330px;	
+	background-color:transparent;
+}
+.circle{
+	width:90px;
+	height:90px;
+	border-radius:45px;
+}
+.circle1{
+	width:60px;
+	height:60px;
+	border-radius:30px;
+}
+#hover1:hover{
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
+#hover2:hover{
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
+#hover3:hover{
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
+#hover0:hover{
+	width:100px;
+	height:100px;
+	border-radius:50px;
+}
+.circle1:hover{
+	width:70px;
+	height:70px;
+	border-radius:35px;
+}
+
+#tabing td{
+	width:200px;
+	height:120px;
+	
+}
+#tabs{
+	
+	padding:5px;
+	width:1300px;
+	margin-left:20px;
+	margin-top:120px;
+	background-color:#00334C;
+}
+#space{
+	padding:5px;
+	height:100px;
+	background-color:transparent;
+}
+
+#content{
+	padding:5px;
+	margin-left:150px;
+	margin-top:50px;
+	width:1000px;
+	background-color:#E0E0D1;
+	
+
+
+

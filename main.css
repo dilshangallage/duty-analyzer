@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+#apDiv1,#apDiv5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 60px;
+	z-index: 1;
+	
+	background: #00D9F7; 
+	background: -moz-linear-gradient(top,  #0009F7 0%, #008CDE 0%, #0033FF 65%, #fbdf93 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0009F7), color-stop(0%,#008CDE), color-stop(65%,#0033FF), color-stop(100%,#fbdf93)); 
+	background: -webkit-linear-gradient(top,  #0009F7 0%,#008CDE 0%,#0033FF 65%,#fbdf93 100%);
+	
+	background: -o-linear-gradient(top,  #0009F7 0%,#008CDE 0%,#0033FF 65%,#fbdf93 100%); 
+	background: -ms-linear-gradient(top,  #0009F7 0%,#008CDE 0%,#0033FF 65%,#fbdf93 100%);
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00D9F7', endColorstr='#CC0033',GradientType=0 ); 
+	background-color: #FFF;
+	background-position: bottom;
+}
+
+#apDiv2 {
+	position: absolute;
+	left: 30%;
+	top: 0px;
+	width: 300px;
+	height: 0px;
+	z-index: 2;
+	background-image: url(Untitled-1.png);
+	right: 200px;
+	color: #FFFFFF;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bolder;
+}
+
+#apDiv3 {
+	position: absolute;
+	left: 173px;
+	top: 60px;
+	width: 786px;
+	height: 73px;
+	z-index: 3;
+	padding: 0px;
+	margin: 0px;
+}
+#apDiv4 {
+	position: absolute;
+	left: 157px;
+	top: 223px;
+	width: 80%;
+	height: 222px;
+	z-index: 4;
+}
+
+#apDiv5 {
+	position: absolute;
+	left: 0px;
+	top: 581px;
+	width: 100%;
+	height: 106px;
+	z-index: 5;
+}
+
+
+
+
